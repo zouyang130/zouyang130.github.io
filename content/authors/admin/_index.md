@@ -39,15 +39,16 @@ profiles:
     url: https://scholar.google.com/citations?user=pOLzOOkAAAAJ&hl=en
   
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Digital Construction
+  - Construction Robotics and Automation
+  - Intelligent Infrastructure Management
+  - Smart City
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Civil Engineering
+    institution: University Liverpool
+    date_start: 2014-09-01
+    date_end: 2027-12-05
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
