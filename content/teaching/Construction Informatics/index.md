@@ -1,6 +1,6 @@
 ---
 title: CIVIL305 Construction Informatics
-summary: ''Construction Informatics''
+summary: Construction Informatics
 date: 2024-07-29
 type: docs
 math: false
