@@ -35,12 +35,12 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Your Name"
+      text: "Yang Zou"
 
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Yang Zou. This work is licensed under {license}'
+    notice: '© {year} Yang Zou.'
     license:
       enable: true
       allow_derivatives: false
