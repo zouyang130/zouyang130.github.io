@@ -116,25 +116,25 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: Young Scientist Award 2023
-    date: '2023'
+    date: '2023-07-25'
     awarder: New Zealand Chinese Scientists Association (NZCSA)
   - title: Best Paper Award of Sustainable Facility Management and Maintenance
-    date: '2022'
+    date: '2022-06-25'
     awarder: CIB World Building Congress (WBC) 2022
   - title: YU Scholar Postgraduate Scholarship
-    date: '2016'
+    date: '2016-01-01'
     awarder: University of Liverpool
   - title: Liverpool Doctoral College Bursary
-    date: '2017'
+    date: '2016-01-01'
     awarder: University of Liverpool
   - title: Merit Award in “Singapore Challenge - The Science of Future Cities”
-    date: '2015'
+    date: '2015-01-01'
     awarder: Agency for Science, Technology and Research (A*STAR), Singapore
   - title: Hong Kong Graduate Association (HKGA) Postgraduate Scholarship
-    date: '2015'
+    date: '2015-01-01'
     awarder: University of Liverpool
   - title: Travel Grant to attend the RENKEI (UK-Japan Research and Education for Knowledge Economy Initiatives) Spring School 2015
-    date: '2025'
+    date: '2015-01-01'
     awarder: University of Liverpool
   
 ---
