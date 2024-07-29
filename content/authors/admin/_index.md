@@ -141,4 +141,4 @@ awards:
 
 ## About Me
 
-I am a Senior Lecturer at the University of Auckland. I am the Programme Leader for postgraduate studies in Construction Management, as well as the Director of the Smart Digital Lab (SDL). My research lies in the inter-disciplinary area of intelligent infrastructure and digital construction. I have focused on applying Building Information Modelling (BIM), Unmanned Aerial System (UAS), Artificial Intelligence (AI), Extended Reality (VR/AR/MR), Smart Sensing and Visualisation, throughout the lifecycle of complex building and large-scale infrastructure systems. My ultimate research goal is to develop a smarter, safer and better built environment to meet the new needs of a changing world. 
+I am a Senior Lecturer in Digital Construction at the University of Auckland. I am the Programme Leader for postgraduate studies in Construction Management, as well as the Director of the Smart Digital Lab (SDL).

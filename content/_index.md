@@ -15,9 +15,9 @@ sections:
       username: admin
       text: ""
       # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Download CV
-        url: uploads/resume.pdf
+      # button:
+        # text: 
+        # url: 
     design:
       css_class: dark
       background:
@@ -35,9 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        My research lies in the inter-disciplinary area of intelligent infrastructure and digital construction. I have focused on applying Building Information Modelling (BIM), Unmanned Aerial System (UAS), Artificial Intelligence (AI), Extended Reality (VR/AR/MR), Smart Sensing and Visualisation, throughout the lifecycle of complex building and large-scale infrastructure systems. My ultimate research goal is to develop a smarter, safer and better built environment to meet the new needs of a changing world.
         
         Please reach out to collaborate 😃
     design:
