@@ -1,9 +1,6 @@
 ---
 # Display name
-title: 邹阳
-
-# Name pronunciation (optional)
-name_pronunciation: Yang Zou
+title: Yang Zou
 
 # Full name (for SEO)
 first_name: Yang
@@ -48,30 +45,16 @@ education:
   - area: PhD Civil Engineering
     institution: University Liverpool
     date_start: 2014-09-01
-    date_end: 2027-12-05
-        
+    date_end: 2027-12-05  
   - area: MSc Structural Engineering
     institution: Cardiff University
     date_start: 2012-09-01
     date_end: 2023-03-05
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BEng Civil Engineering
     institution: Chongqing Jiaotong University
     date_start: 2007-09-01
     date_end: 2011-06-30
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
 work:
   - position: Senior Lecturer in Construction Engineering and Management
     company_name: University of Auckland
@@ -79,11 +62,7 @@ work:
     company_logo: ''
     date_start: 2022-11-25
     date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    
   - position: Lecturer in Construction Engineering and Management
     company_name: University of Auckland
     company_url: ''
@@ -96,17 +75,17 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: Research
         description: ''
-        percent: 80
+        percent: 100
         icon: code-bracket
-      - name: Data Science
+      - name: BIM
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
+      - name: Automation
         description: ''
-        percent: 40
+        percent: 80
         icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
@@ -116,7 +95,7 @@ skills:
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: Basketball
         description: ''
         percent: 100
         icon: cat
@@ -129,22 +108,17 @@ languages:
   - name: English
     percent: 100
   - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
-    summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+  - title: Young Scientist Award 2023
+    date: '2023-07-28'
+    awarder: New Zealand Chinese Scientists Association (NZCSA)
+    
   - title: Blockchain Fundamentals
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: '2023-07-01'
