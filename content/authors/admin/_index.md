@@ -141,4 +141,4 @@ awards:
 
 ## About Me
 
-I am a Senior Lecturer in Digital Construction at the University of Auckland. I am the Programme Leader for postgraduate studies in Construction Management, as well as the Director of the Smart Digital Lab (SDL).
+I am a Senior Lecturer in Digital Construction at the [University of Auckland](www.auckland.ac.nz). I am the Programme Leader for postgraduate studies in Construction Management, as well as the Director of the [Smart Digital Lab (SDL)](https://my.matterport.com/show/?m=BJL6tB5cZrv).
