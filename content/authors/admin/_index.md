@@ -116,29 +116,29 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: Young Scientist Award 2023
-    date: '2023-07-28'
+    date: '2023'
     awarder: New Zealand Chinese Scientists Association (NZCSA)
-    
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+  - title: Best Paper Award of Sustainable Facility Management and Maintenance
+    date: '2022'
+    awarder: CIB World Building Congress (WBC) 2022
+  - title: YU Scholar Postgraduate Scholarship
+    date: '2016'
+    awarder: University of Liverpool
+  - title: Liverpool Doctoral College Bursary
+    date: '2017'
+    awarder: University of Liverpool
+  - title: Merit Award in “Singapore Challenge - The Science of Future Cities”
+    date: '2015'
+    awarder: Agency for Science, Technology and Research (A*STAR), Singapore
+  - title: Hong Kong Graduate Association (HKGA) Postgraduate Scholarship
+    date: '2015'
+    awarder: University of Liverpool
+  - title: Travel Grant to attend the RENKEI (UK-Japan Research and Education for Knowledge Economy Initiatives) Spring School 2015
+    date: '2025'
+    awarder: University of Liverpool
+  
 ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a Senior Lecturer at the University of Auckland. I am the Programme Leader for postgraduate studies in Construction Management, as well as the Director of the Smart Digital Lab (SDL). My research lies in the inter-disciplinary area of intelligent infrastructure and digital construction. I have focused on applying Building Information Modelling (BIM), Unmanned Aerial System (UAS), Artificial Intelligence (AI), Extended Reality (VR/AR/MR), Smart Sensing and Visualisation, throughout the lifecycle of complex building and large-scale infrastructure systems. My ultimate research goal is to develop a smarter, safer and better built environment to meet the new needs of a changing world. 
