@@ -32,8 +32,8 @@ abstract: 'Data visualization and decision-making are critical aspects of infras
 summary: ''
 
 tags:
-- Construction
-- BIM
+- VR
+- Bridge inspection
 featured: false
 
 # links:
