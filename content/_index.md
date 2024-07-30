@@ -60,7 +60,7 @@ sections:
           date_end: ''
           description: ''            
   - block: collection
-    id: projects
+    id: papers
     content:
       title: Recent Projects
       filters:
