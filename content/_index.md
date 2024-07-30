@@ -75,7 +75,8 @@ sections:
     id: news
     content:
       title: Recent News
-      subtitle: ''
+      subtitle: 'Find all news here'
+      url: news/
       text: ''
       # Page type to display. E.g. post, talk, publication...
       page_type: post
