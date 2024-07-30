@@ -1,7 +1,7 @@
 ---
 title: "Developing a tailored RBS linking to BIM for risk management of bridge projects"
 authors:
-- Yang Zou
+- admin
 - Arto Kiviniemi
 - Stephen W. Jones
 author_notes: []
