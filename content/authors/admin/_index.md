@@ -70,40 +70,6 @@ work:
     date_start: 2018-02-01
     date_end: 2022-11-24
     
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
-    items:
-      - name: Research
-        description: ''
-        percent: 100
-        icon: code-bracket
-      - name: BIM
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: Automation
-        description: ''
-        percent: 80
-        icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Basketball
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
-
 languages:
   - name: English
     percent: 100
@@ -141,4 +107,4 @@ awards:
 
 ## About Me
 
-I am a Senior Lecturer in Digital Construction at the [University of Auckland](www.auckland.ac.nz). I am the Programme Leader for postgraduate studies in Construction Management, as well as the Director of the [Smart Digital Lab (SDL)](https://my.matterport.com/show/?m=BJL6tB5cZrv).
+I am a Senior Lecturer in Digital Construction at the [University of Auckland](www.auckland.ac.nz). I am the Programme Leader for postgraduate studies in Construction Management, as well as the Director of the [Smart Digital Lab (SDL)](https://my.matterport.com/show/?m=BJL6tB5cZrv). My research lies in the inter-disciplinary area of intelligent infrastructure and digital construction. I have focused on applying Building Information Modelling (BIM), Unmanned Aerial System (UAS), Artificial Intelligence (AI), Extended Reality (VR/AR/MR), Smart Sensing and Visualisation, throughout the lifecycle of complex building and large-scale infrastructure systems. My ultimate research goal is to develop a smarter, safer and better built environment to meet the new needs of a changing world.
