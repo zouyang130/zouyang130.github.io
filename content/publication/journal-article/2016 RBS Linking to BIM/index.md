@@ -21,7 +21,19 @@ publication_types: ["article-journal"]
 publication: "*Engineering, Construction and Architectural Management*"
 publication_short: ""
 
-abstract: ''
+abstract: 
+'Purpose
+The purpose of this paper is to address the current theoretical gap in integrating knowledge and experience into Building Information Model (BIM) for risk management of bridge projects by developing a tailored Risk Breakdown Structure (RBS) and formalising an active link between the resulting RBS and BIM.
+Design/methodology/approach
+A three-step approach is used in this study to develop a tailored RBS for bridge projects and a conceptual model for the linkage between the RBS and BIM. First, the integrated bridge information model is in concept separated into four levels of contents (LOCs) and six technical systems based on analysis of the Industry Foundation Classes specification, a critical review of previous studies and authors’ project experience. The second step develops a knowledge-based risk database through an extensive collection of risk data, a process of data mining, and further assessment and translation of data. A critical analysis is conducted in the last step to determine on which level the different risks should be allocated to bridge projects and to propose a conceptual model for linking the tailored RBS to the four LOCs and six technical systems of BIM.
+Findings
+The findings suggest that the traditional method and BIM can be merged as an integrated solution for risk management by establishing the linkage between RBS and BIM. This solution can take advantage of both the traditional method and BIM for managing risks. On the one hand, RBS enables risk information to be stored in a formal structure, used and communicated effectively. On the other hand, some features of BIM such as 3D visualisation and 4D construction scheduling can facilitate the risk identification, analysis, and communication at an early project stage.
+Research limitations/implications
+A limitation is that RBS is a qualitative technique and only plays a limited role in quantitative risk analysis. As a result, when implementing this proposed method, further techniques may be needed for assisting quantitative risk analysis, evaluation, and treatment. Another limitation is that the proposed method has not yet been implemented for validation in practice. Hence, recommendations for future research are to: improve the quantitative risk analysis and treatment capabilities of this proposed solution; develop computer tools to support the solution; integrate the linkage into a traditional workflow; and test this solution in some small and large projects for validation.
+Practical implications
+Through linking risk information to BIM, project participants could check and review the linked information for identifying potential risks and seeking possible mitigation measures, when project information is being transferred between different people or forwarded to the next phase.
+Originality/value
+This study contributes to the theoretical development for aligning traditional methods and BIM for risk management, by introducing a new conceptual model for linking RBS to BIM.'
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -65,12 +77,3 @@ projects: []
 slides: ''
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
