@@ -1,6 +1,6 @@
 ---
 title: An autonomous and intelligent robotic system for post-earthquake search, rescue and building condition assessment
-date: 2024-07-30
+date: 2020-01-01
 type: docs
 tags:
   - Post-earthquake inspection

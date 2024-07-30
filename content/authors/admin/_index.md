@@ -46,10 +46,14 @@ education:
     institution: University Liverpool
     date_start: 2014-09-01
     date_end: 2027-12-05  
-  - area: MSc Structural Engineering
+  - area: MSc (Distinction) Structural Engineering (Dual Masters Programme)
     institution: Cardiff University
     date_start: 2012-09-01
     date_end: 2023-03-05
+  - area: MSc Bridge and Tunnel Engineering (Dual Masters Programme)
+    institution: Chongqing Jiaotong University
+    date_start: 2011-09-01
+    date_end: 2024-06-30  
   - area: BEng Civil Engineering
     institution: Chongqing Jiaotong University
     date_start: 2007-09-01

@@ -1,6 +1,6 @@
 ---
 title: Rapid post-earthquake assessment of bridge damage through 3D BIM reconstruction
-date: 2024-07-30
+date: 2018-01-01
 type: docs
 tags:
   - Drone

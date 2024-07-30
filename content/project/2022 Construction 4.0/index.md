@@ -1,6 +1,6 @@
 ---
 title: Developing a Construction 4.0 transformation of Aotearoa New Zealand's construction sector
-date: 2024-07-30
+date: 2022-01-01
 type: docs
 tags:
   - Construction

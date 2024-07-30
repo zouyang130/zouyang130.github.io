@@ -1,6 +1,6 @@
 ---
 title: Automated Building Code Compliance Checking for Prefab Designs - Key Barriers and Recommendations
-date: 2024-07-30
+date: 2019-01-01
 type: docs
 tags:
   - Offsite construction

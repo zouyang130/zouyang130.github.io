@@ -1,6 +1,6 @@
 ---
 title: Digital Twinning – A Future Rail Platform
-date: 2024-07-30
+date: 2023-01-01
 type: docs
 tags:
   - Digital twin

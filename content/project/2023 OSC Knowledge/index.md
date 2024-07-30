@@ -1,6 +1,6 @@
 ---
 title: Improving Performance and Collaboration for Offsite Construction through Learning between Projects and Knowledge Reuse
-date: 2024-07-30
+date: 2023-01-01
 type: docs
 tags:
   - Offsite construction

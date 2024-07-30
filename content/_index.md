@@ -60,16 +60,16 @@ sections:
           date_end: ''
           description: ''            
   - block: collection
-    id: papers
+    id: projects
     content:
-      title: Featured Publications
+      title: Recent Projects
       filters:
         folders:
-          - publication
+          - project
         featured_only: true
     design:
       view: article-grid
-      columns: 2
+      columns: 3
   - block: collection
     content:
       title: Recent Publications

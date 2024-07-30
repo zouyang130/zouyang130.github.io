@@ -1,6 +1,6 @@
 ---
 title: Agent-Based Building Earthquake Evacuation Simulation - AB2E2S
-date: 2024-07-30
+date: 2019-01-01
 type: docs
 tags:
   - Agent-Based modelling
