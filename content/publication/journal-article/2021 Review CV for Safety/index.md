@@ -6,10 +6,6 @@ authors:
 - Yihai Fang
 - Yang Miang Goh
 - Patrick X.W. Zou
-
-
-
-
 author_notes: []
 
 date: "20121-01-06T00:00:00Z"

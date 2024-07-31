@@ -8,7 +8,6 @@ authors:
 - Enrique del Rey Castillo b
 - Mehrdad Arashpour c
 - Guillermo Cabrera-Guerrero 
-
 author_notes: []
 
 date: "2023-07-13T00:00:00Z"

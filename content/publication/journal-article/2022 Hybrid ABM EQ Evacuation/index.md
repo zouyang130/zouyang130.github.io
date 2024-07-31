@@ -5,8 +5,7 @@ authors:
 - Vicente Gonzalez
 - Jiamou Liu
 - admin
-- Guillermo Cabrera-Guerrero c
-
+- Guillermo Cabrera-Guerrero
 author_notes: []
 
 date: "2022-01-20T00:00:00Z"

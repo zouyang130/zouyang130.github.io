@@ -7,7 +7,6 @@ authors:
 - Eleni Papadonikolaki, 
 - Johannes Dimyadi
 - Sze Nga Hung
-
 author_notes: []
 
 date: "2022-09-22T00:00:00Z"

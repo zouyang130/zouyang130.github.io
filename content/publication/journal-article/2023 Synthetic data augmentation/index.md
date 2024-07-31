@@ -5,7 +5,6 @@ authors:
 - Enrique del Rey Castillo
 - admin
 - Liam Wotherspoon
-
 author_notes: []
 
 date: "2013-03-16T00:00:00Z"

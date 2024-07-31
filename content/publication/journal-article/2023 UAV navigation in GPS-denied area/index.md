@@ -8,7 +8,6 @@ authors:
 - Minas Liarokapis b
 - Enrique del Rey Castillo a
 - James B.P. Lim
-
 author_notes: []
 
 date: "2023-10-21T00:00:00Z"

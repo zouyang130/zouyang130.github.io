@@ -7,8 +7,6 @@ authors:
 - Ruoyu Jin
 - Ruijia Yuan
 - Qinge Wang
-
-
 author_notes: []
 
 date: "2019-03-19T00:00:00Z"
