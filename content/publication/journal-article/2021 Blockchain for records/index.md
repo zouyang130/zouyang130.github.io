@@ -1,5 +1,5 @@
 ---
-title: "Scientometric analysis of BIM-based research in construction engineering and management"
+title: "Blockchain-aided information exchange records for design liability control and improved security"
 authors:
 - Abhinaw Sai Erri Pradeep
 - Tak Wing Yiu
@@ -29,9 +29,8 @@ summary: ''
 
 tags:
 - Construction
-- Blockchain
 - BIM
-- information exchange
+- Blockchain
 featured: false
 
 # links:
