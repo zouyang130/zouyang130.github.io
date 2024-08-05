@@ -99,7 +99,11 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  
+  - block: resume-awards
+    content:
+      title: Awards
+      # Note: `username` refers to the user's folder name in `content/authors/`
+      username: admin
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
