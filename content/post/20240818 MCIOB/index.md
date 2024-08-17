@@ -1,6 +1,6 @@
 ---
 title: Dr Zou has become a chartered member of Chartered Institute of Building (CIOB)!
-summary: Over 100 participants involved!
+summary: ''
 date: 2024-08-18
 math: true
 authors:
