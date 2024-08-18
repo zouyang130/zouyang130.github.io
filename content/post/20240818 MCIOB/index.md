@@ -1,5 +1,5 @@
 ---
-title: Dr Zou has become a chartered member of Chartered Institute of Building (CIOB)!
+title: Dr Zou has become a chartered member of Chartered Institute of Building (CIOB)
 summary: ''
 date: 2024-08-18
 math: true
