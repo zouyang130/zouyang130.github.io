@@ -1,5 +1,5 @@
 ---
-title: Feng WANG successfully defended his viva and became a Dr today!
+title: Congratulations to Feng WANG for successfully defending his viva!
 summary: ''
 date: 2024-08-20
 math: true
