@@ -1,17 +1,20 @@
 ---
-title: Julia Specht from OTH Regensburg is visiting us for 5 months!
+title: Congratulations to Feng Wang for successfully defending his PhD thesis!
 summary: ''
-date: 2024-11-01
+date: 2024-08-20
 math: true
 authors:
   - admin
 tags:
-  - Visiting scholar
-  - International collaboration
+  - PhD oral examination
 image:
   caption: ''
 ---
-Our Smart Digital Lab has a new visiting scholar from Germany! Julia Specht is a master’s student from OTH Regensburg, supervised by Prof Thomas Linner. She has extensive experience in drone mapping. She has won a full scholarship to visit us for 5 months and we look forward to collaborating with her to expand the use of drones for building inspections. Welcome, Julia!
+We are thrilled to share the good news that Feng Wang has successfully defended his PhD thesis today. Feng began his PhD in late 2019 and received his PhD title today on 20 August 2024! His thesis, titled "Automated High-quality Image Acquisition for UAV-enabled Bridge Visual Inspection" represents a significant achievement and a valuable contribution to the field of construction automation. His hard work and dedication are truly inspiring, and I look forward to his future contributions to our research community.
+
+Feng is now working as a Postdoctoral Fellow at University of Hong Kong (HKU).
+ 
+Congratulations once again, Dr Wang!
 
 
 

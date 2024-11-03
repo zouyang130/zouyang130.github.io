@@ -1,20 +1,17 @@
 ---
-title: Congratulations to Cheng Zhang for successfully passing his oral examination!
+title: Julia Specht from OTH Regensburg is visiting us for 5 months!
 summary: ''
-date: 2024-10-30
+date: 2024-11-01
 math: true
 authors:
   - admin
 tags:
-  - PhD oral examination
+  - Visiting scholar
+  - International collaboration
 image:
   caption: ''
 ---
-We are thrilled to share the good news that Cheng Zhang has successfully passed his oral examination and received his PhD title today on 30 October 2024! His thesis, titled "Building Information Modelling-based Smart Inspection Data Management for Unmanned Aerial Vehicle-enabled Visual Building Inspection" represents a significant achievement and a valuable contribution to the field of construction automation.
- 
-Cheng began his PhD in 2021 but faced a unique challenge, as he was unable to leave China for almost 1.5 years due to COVID restrictions. Since arriving in Auckland in March 2022, he has worked diligently and completed his PhD in an impressive 2.5 years. His hard work and dedication are truly inspiring, and I look forward to his future contributions to our research community.
- 
-Congratulations once again, Dr Zhang!
+Our Smart Digital Lab has a new visiting scholar from Germany! Julia Specht is a master’s student from OTH Regensburg, supervised by Prof Thomas Linner. She has extensive experience in drone mapping. She has won a full scholarship to visit us for 5 months and we look forward to collaborating with her to expand the use of drones for building inspections. Welcome, Julia!
 
 
 
