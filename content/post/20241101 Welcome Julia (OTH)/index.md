@@ -1,17 +1,18 @@
 ---
-title: Julia Specht from OTH Regensburg is visiting us for 5 months!
+title: A distinguished group of SASBE2024 conference's VIPs visited the Smart Digital Lab
 summary: ''
-date: 2024-11-01
+date: 2024-11-08
 math: true
 authors:
   - admin
 tags:
-  - Visiting scholar
-  - International collaboration
+    - International collaboration
 image:
   caption: ''
 ---
-Our Smart Digital Lab has a new visiting scholar from Germany! Julia Specht is a master’s student from OTH Regensburg, supervised by Prof Thomas Linner. She has extensive experience in drone mapping. She has won a full scholarship to visit us for 5 months and we look forward to collaborating with her to expand the use of drones for building inspections. Welcome, Julia!
+On 8 November 2024, we had the pleasure of welcoming a distinguished group of VIPs of SASBE2024 (International Conference of Smart and Sustainable Built Environment) conference to the Smart Digital Lab, including Prof. Jack Cheng (HKUST), Prof. Mirosław Skibniewski (University of Maryland), Prof. Farzad Pour Rahimian (Teesside University), Dr. M Reza Hosseini (The University of Melbourne) and Dr. Julian LEE (Cinnotek International Group & Beeinventor Singapore). Thank you all for taking the time to this short visit - it was a genuinely rewarding experience to connect, exchange ideas, and learn from you all. We look forward to keeping in touch and hope to meet again soon! 😊 
+
+Special thanks to our students, Zhengxing Chen, Cheng Zhang, Tao Yang, Zhen Zhang and Li Xu for their help and support.
 
 
 
