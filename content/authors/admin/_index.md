@@ -60,12 +60,18 @@ education:
     date_end: 2011-06-30
 
 work:
+  - position: Senior Lecturer (Above the Bar) in Construction Engineering and Management
+    company_name: University of Auckland
+    company_url: ''
+    company_logo: ''
+    date_start: 2024-11-21
+    date_end: ''
   - position: Senior Lecturer in Construction Engineering and Management
     company_name: University of Auckland
     company_url: ''
     company_logo: ''
     date_start: 2022-11-25
-    date_end: ''
+    date_end: 2024-11-20
     
   - position: Lecturer in Construction Engineering and Management
     company_name: University of Auckland
