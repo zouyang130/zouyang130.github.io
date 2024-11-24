@@ -1,5 +1,5 @@
 ---
-title: Congratulations to Feng WANG for successfully defending his viva!
+title: Congratulations to Feng Wang for successfully defending his PhD thesis!
 summary: ''
 date: 2024-08-20
 math: true
@@ -10,11 +10,11 @@ tags:
 image:
   caption: ''
 ---
-On 20 August 2024, Feng Wang successfully defended his PhD oral examination and officially became Dr. Wang! His PhD research focused on Unmanned Aerial System (UAS)-based bridge inspection, investigating novel approaches for 3D UAS path planning to reconstruct high-quality 3D models, accurately position UAS in GPS-denied areas, and perform near real-time quality checks for inspection imagery data. Congratulations to Dr. Wang!
+We are thrilled to share the good news that Feng Wang has successfully defended his PhD thesis today. Feng began his PhD in late 2019 and received his PhD title today on 20 August 2024! His thesis, titled "Automated High-quality Image Acquisition for UAV-enabled Bridge Visual Inspection" represents a significant achievement and a valuable contribution to the field of construction automation. His hard work and dedication are truly inspiring, and I look forward to his future contributions to our research community.
 
-Dr. Wang began his PhD on 20 August 2019, and today, exactly five years later, he has reached this significant milestone.
-
-He is currently a postdoctoral fellow at the University of Hong Kong. Best wishes to Dr. Wang for his future career! We look forward to more collaboration with him in the future.
+Feng is now working as a Postdoctoral Fellow at University of Hong Kong (HKU).
+ 
+Congratulations once again, Dr Wang!
 
 
 
