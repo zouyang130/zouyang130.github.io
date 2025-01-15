@@ -91,6 +91,9 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
+  - title: Best Paper Award
+    date: '2025-01-10'
+    awarder: The 6th International Conference on Civil and Building Engineering Informatics (ICCBEI 2025)
   - title: Young Scientist Award 2023
     date: '2023-07-25'
     awarder: New Zealand Chinese Scientists Association (NZCSA)
