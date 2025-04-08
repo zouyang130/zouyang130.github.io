@@ -1,7 +1,7 @@
 ---
 title: Dr Yang Zou joins the Editoral Advisory Board of a brand new Emerald's journal - AISBE
 summary: ''
-date: 2025-04-04
+date: 2025-04-08
 math: true
 authors:
   - admin
