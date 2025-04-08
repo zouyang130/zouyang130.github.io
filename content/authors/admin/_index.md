@@ -91,6 +91,9 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
+  - title: DBI Visiting Research Fellowship
+    date: '2025-04-04'
+    awarder: Australian Decarbonising the Building Industry (DBI) Network - The University of Melbourne
   - title: Best Paper Award
     date: '2025-01-10'
     awarder: The 6th International Conference on Civil and Building Engineering Informatics (ICCBEI 2025)
