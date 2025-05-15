@@ -1,15 +1,14 @@
 ---
-title: Dr Yang Zou joins the Editoral Advisory Board of a brand new Emerald's journal - AISBE
+title: Congratulations to Dr Cheng Zhang on receiving his PhD degree certificate!
 summary: ''
-date: 2025-04-08
+date: 2025-05-14
 math: true
 authors:
   - admin
 tags:
-  - International journal
-  - Editoral board
+  - PhD
 image:
   caption: ''
 ---
 
-Dr Yang Zou has been invited to join the Editoral Advisory Board (EAB) of a brand new, fully open access journal entitled Artificial Intelligence for a Sustainable Built Environment (AISBE). AISBE is a cutting edge, inter-/trans- disciplinary gold open access journal that aims to advance knowledge in AI applications within architecture, civil and construction engineering. The journal seeks to publish high-quality, peer-reviewed research that explores the intersection of AI, sustainability, and resilience in the built environment. By fostering interdisciplinary collaboration and innovation, the journal will contribute to the development of smarter, more sustainable infrastructure and construction practices. While AI is a focal point for the journal, it will also showcase the whole spectrum of construction and civil engineering research in digital and computer technologies. The journal also aligns with and supports the United Nations Sustainable Development Goals (UN-SDGs), particularly SDG9 Industry, Innovation and Infrastructure, SDG11 Sustainable Cities and Communities, SDG13 Climate Action, and SDG7 Affordable and Clean Energy.
+A big congratulations to Dr. Cheng Zhang, who officially received his PhD degree certificate on 14 May 2025! He celebrated the milestone at the Spark Arena graduation ceremony — with a huge smile and a very big certificate in hand. It has been a true pleasure working with Cheng over the past few years. He is one of the most humble, hardworking, and dedicated students I have had the privilege to work with. I am incredibly proud of all that he has accomplished so far and cannot wait to see what he achieves next. Wishing you all the best in your next chapter, Cheng — the journey is only just beginning! 🚀
